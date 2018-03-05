@@ -1,0 +1,367 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2016/fall/amhuynh1/112L/lab-2/sim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1520255896
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+I:ET?6@:2cYHRQPTY];K=Z1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+w1520032602
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/adder.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/adder.sv
+L0 3
+Z4 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1520255896.000000
+Z6 !s107 /users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RISC_V.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Datapath.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Controller.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RegFile.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/alu.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/ALUController.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/instructionmemory.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/datamemory.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux8.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux4.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux2.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/imm_Gen.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/flopr.sv|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/adder.sv|
+Z7 !s90 -64|-sv|-f|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/rtl.cfg|
+!i113 0
+Z8 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R1
+R2
+!i10b 1
+!s100 IYOTFRDCL1QTI:a`IcWW_0
+IPZh=kZZ2gnRLRlU^B5LVo1
+R3
+!s105 alu_sv_unit
+S1
+R0
+w1520034487
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/alu.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/alu.sv
+Z9 L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vALUController
+R1
+R2
+!i10b 1
+!s100 9@MdZS=fA^dCV?YOYjW7F3
+ICh5CiGeDQnGP<Qk9IIfF80
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+w1520033582
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/ALUController.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/ALUController.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@a@l@u@controller
+vController
+R1
+R2
+!i10b 1
+!s100 ZX2]j8NiMYY;a`Ro1l9b>2
+IE_[h8F83]HL8Qc0Mo>h4]3
+R3
+!s105 Controller_sv_unit
+S1
+R0
+w1520130643
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Controller.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Controller.sv
+Z10 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@controller
+vdatamemory
+R1
+R2
+!i10b 1
+!s100 jnZAR?6OKKaNBcUbK:ocM3
+IQj95G_Z^>S@mL8NX;KZE22
+R3
+!s105 datamemory_sv_unit
+S1
+R0
+Z11 w1520032601
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/datamemory.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/datamemory.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vDatapath
+R1
+R2
+!i10b 1
+!s100 [eL6BEoRY49Dmnn7Je=2L0
+IMcDm@;MdD>3l:0OGWMF2I3
+R3
+!s105 Datapath_sv_unit
+S1
+R0
+w1520251983
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Datapath.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/Datapath.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@datapath
+vflopr
+R1
+R2
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+I2_o_jm=n^Wn7ZaSU@FL`?3
+R3
+!s105 flopr_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/flopr.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/flopr.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vimm_Gen
+R1
+R2
+!i10b 1
+!s100 jWGfB4nlTPNHJTj0T7T>c2
+I0P4Z`YmQc>DE1P22]j[PV0
+R3
+!s105 imm_Gen_sv_unit
+S1
+R0
+w1520033260
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/imm_Gen.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/imm_Gen.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nimm_@gen
+vinstructionmemory
+R1
+R2
+!i10b 1
+!s100 :BdEkYH7nN0^1PKOzRah[0
+IU_MN1m^4B27BiETzn8O@e0
+R3
+!s105 instructionmemory_sv_unit
+S1
+R0
+w1520253794
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/instructionmemory.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/instructionmemory.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vmux2
+R1
+R2
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+IZJDYK?Fz2`AAIhZ=Z@k[82
+R3
+!s105 mux2_sv_unit
+S1
+R0
+w1520206580
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux2.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux2.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vmux4
+R1
+R2
+!i10b 1
+!s100 3B1b[7D10A=[7`WE^l;NU3
+IMU>^SezGTBM8:m:>AM5NG2
+R3
+!s105 mux4_sv_unit
+S1
+R0
+w1520251657
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux4.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux4.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vmux8
+R1
+R2
+!i10b 1
+!s100 AzohoTjHCoE>oe4fc3>gT0
+I5IZMeM:9IJ_E52Yk7WU^=1
+R3
+!s105 mux8_sv_unit
+S1
+R0
+w1520206697
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux8.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/mux8.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vRegFile
+R1
+R2
+!i10b 1
+!s100 6[Pk56mHGGAiCoLSDHU7I3
+IPgh<haIRj8nEP@om;DNR^3
+R3
+!s105 RegFile_sv_unit
+S1
+R0
+w1520255127
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RegFile.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RegFile.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@reg@file
+vriscv
+R1
+R2
+!i10b 1
+!s100 IkFK_jFhcL;c54@cGf>dT2
+IjHm8AZIdm`75jNZWVTW9Z2
+R3
+!s105 RISC_V_sv_unit
+S1
+R0
+w1520249121
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RISC_V.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/design/RISC_V.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vtb_top
+R1
+!s110 1520255903
+!i10b 1
+!s100 Ac4ganCOBnoOOlMGTCO4;3
+Iz5eI5Hj<l1A8m582AL9f11
+R3
+!s105 tb_top_sv_unit
+S1
+R0
+w1520132831
+8/users/ugrad/2016/fall/amhuynh1/112L/lab-2/verif/tb_top.sv
+F/users/ugrad/2016/fall/amhuynh1/112L/lab-2/verif/tb_top.sv
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1520255903.000000
+!s107 /users/ugrad/2016/fall/amhuynh1/112L/lab-2/verif/tb_top.sv|
+!s90 -64|-sv|-f|/users/ugrad/2016/fall/amhuynh1/112L/lab-2/verif/tb.cfg|-work|work|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+!s110 1520255909
+VaTElJ9VI@8LDgYo23F_D_2
+04 6 4 work tb_top fast 0
+o+acc -work work
+ntb_top_opt
+OL;O;10.4c;61
